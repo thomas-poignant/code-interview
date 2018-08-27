@@ -19,4 +19,4 @@ int[] stockPrices = new int[] {10, 7, 5, 8, 11, 9}
 getMaxProfit(stockPrices); // returns 6 (buying for $5 and selling for $11)
 ```
 
-The Result is on [AppleStockProfit.java]
+The Result is on [AppleStockProfit.java](AppleStockProfit.java)
