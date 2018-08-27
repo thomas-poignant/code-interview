@@ -1,4 +1,4 @@
-## Apple Stock Profit
+# Apple Stock Profit
 
 Writing programming interview questions hasn't made me rich yet ... so I might give up and start trading Apple stocks all day instead.
 
