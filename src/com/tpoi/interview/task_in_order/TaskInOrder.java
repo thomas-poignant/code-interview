@@ -1,4 +1,4 @@
-package com.tpoi.sandbox.interview;
+package com.tpoi.interview.task_in_order;
 
 import java.util.HashMap;
 import java.util.LinkedHashSet;

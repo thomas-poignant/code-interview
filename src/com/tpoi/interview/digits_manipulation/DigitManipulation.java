@@ -1,4 +1,4 @@
-package com.tpoi.sandbox;
+package com.tpoi.interview.digits_manipulation;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package com.tpoi.interview;
+package com.tpoi.interview.apple_stock_profit;
 
 public class AppleStockProfit
 {

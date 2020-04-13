@@ -1,7 +1,8 @@
-package com.tpoi.sandbox.interview;
+package com.tpoi.interview.has_pair_equals_sum;
 
 import java.security.InvalidParameterException;
-import javafx.util.Pair;
+import java.util.AbstractMap;
+import java.util.Map;
 
 public class HasPairWithSum
 {
@@ -18,7 +19,7 @@ public class HasPairWithSum
     hasPairWithSum(NUMBERS_CASE_2,SUM); // return RuntimeException "no pair found"
   }
 
-  public static Pair<Integer,Integer> hasPairWithSum(int[] numbers, int sum)
+  public static Map.Entry<Integer,Integer> hasPairWithSum(int[] numbers, int sum)
   {
     if(numbers.length<2)
     {
@@ -36,7 +37,8 @@ public class HasPairWithSum
 
       if(currentSum==sum)
       {
-        return new Pair<>(firstPairValue,lastPairValue);
+        System.out.println("here");
+        return new AbstractMap.SimpleImmutableEntry <>(firstPairValue, lastPairValue);
       }
       else if(currentSum<sum)
       {
