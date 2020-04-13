@@ -9,3 +9,4 @@ Some algorithmic exercices to prepare for interviews (google, netflix ...)
  
  # Resources online
  - https://www.reddit.com/r/programming/comments/9fkb40/replays_of_technical_interviews_with_engineers/
+ - https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
