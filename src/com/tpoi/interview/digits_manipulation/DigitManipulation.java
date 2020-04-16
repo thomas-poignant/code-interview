@@ -20,7 +20,7 @@ public class DigitManipulation
    */
   public static int biggestDigit(int number)
   {
-    String numberInString = Integer.toString(number);
+    String numberInString = String.valueOf(number);
     List<Integer> digits = new ArrayList<>(numberInString.length());
     for(int i = 0;i<numberInString.length();i++)
     {

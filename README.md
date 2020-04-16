@@ -7,6 +7,7 @@ Some algorithmic exercices to prepare for interviews (google, netflix ...)
  - [digits-manipulation](src/com/tpoi/interview/digits_manipulation) : Find the biggest number with the same digits / Find the next number with the same digits.
  - [task-in-order](src/com/tpoi/interview/task_in_order) : Return the tasks in order with the respect of depedencies.
  - [number-repitition](src/com/tpoi/interview/number_repition) : Get the number bellow till 1.
+ - [reverse-words](src/com/tpoi/interview/reverse_words) : Reverse all the words of a sentence.
  
  # Resources online
  - https://www.reddit.com/r/programming/comments/9fkb40/replays_of_technical_interviews_with_engineers/
